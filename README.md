@@ -70,7 +70,7 @@ export const config = {
     //Other sites ...
   ],
   porject: {
-    reactblog:'https://github.com/J1uT1an/J1uT1an.github.io'
+    reactblog:'https://github.com/J1uT1an/J1uT1an-Blog'
   },
 };
 ```
